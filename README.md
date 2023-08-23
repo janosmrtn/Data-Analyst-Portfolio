@@ -14,7 +14,7 @@ Here are a few highlights from my portfolio:
 
 ### Business Analysis
 
-- **Description:** This project was the final assignment for a data scinece online course. It focuses on a 
+- **Description:** This project was the final assignment for a data scinece online course. It focuses on a general business overview with actionable recommendations.
 - **Approach:** Exploratory analyisis was made with SQL, in combination of data vizualization and forecasting was made with the help of Python.
 
 ### Project 2: [Project Name]
