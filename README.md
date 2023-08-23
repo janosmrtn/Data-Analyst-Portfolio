@@ -6,17 +6,16 @@ Welcome to my data analyst portfolio! I'm excited to showcase my skills and proj
 
 ## About Me
 
-I'm a Vienna-based data analyst with a background in [Your Relevant Background, e.g., Statistics, Computer Science, etc.]. My journey in data analysis began [mention your journey's starting point, e.g., during my university studies] and has since led me to work on projects that span different industries, such as [mention 1-2 industries or domains you've worked in].
+I'm a Vienna-based data analyst with an educational background in economics, marketing and tourism. My journey in data analysis began during my master studies, where I mainly focused on courses on market research, statistical methods, big data and customer behaviour. This since led me to work on projects that span different industries, such as FMCG, Food and Beauty at Nestle and at my current workplace.
 
 ## Portfolio Highlights
 
 Here are a few highlights from my portfolio:
 
-### Project 1: [Project Name]
+### Business Analysis
 
-- **Description:** A brief description of the project and the problem it aimed to solve.
-- **Tools:** List the tools, programming languages, and libraries used (e.g., Python, Pandas, Matplotlib).
-- **Results:** Mention any significant insights, visualizations, or conclusions you derived from the analysis.
+- **Description:** This project was the final assignment for a data scinece online course. It focuses on a 
+- **Approach:** Exploratory analyisis was made with SQL, in combination of data vizualization and forecasting was made with the help of Python.
 
 ### Project 2: [Project Name]
 
