@@ -35,11 +35,7 @@ Here are a few highlights from my portfolio:
 
 ## Contact Me
 
-I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out to me via:
-
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- GitHub: [Your GitHub Profile URL]
+I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out to me via Linkedin: https://www.linkedin.com/in/janosmarton/
 
 ## Let's Connect!
 
