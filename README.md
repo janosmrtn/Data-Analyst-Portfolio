@@ -1,6 +1,6 @@
 # Janos Marton's Data Analyst Portfolio
 
-![Profile Picture]
+![(https://media.licdn.com/dms/image/C5603AQEvjFO7GW5V9A/profile-displayphoto-shrink_800_800/0/1527751784475?e=1698278400&v=beta&t=R5fYNkt_RPt0-n6ln30HT6CN5r5JZo1TNO9mQjoiUJQ)]
 
 Welcome to my data analyst portfolio! I'm excited to showcase my skills and projects in the field of data analysis. As a passionate data enthusiast, I've had the opportunity to work on a variety of projects that involve extracting insights from data, making data-driven decisions, and creating meaningful visualizations.
 
