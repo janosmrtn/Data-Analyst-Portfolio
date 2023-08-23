@@ -1,12 +1,12 @@
 # Janos Marton's Data Analyst Portfolio
-
-![Profile Picture](https://media.licdn.com/dms/image/C5603AQEvjFO7GW5V9A/profile-displayphoto-shrink_800_800/0/1527751784475?e=1698278400&v=beta&t=R5fYNkt_RPt0-n6ln30HT6CN5r5JZo1TNO9mQjoiUJQ)
+https://github.com/janosmrtn/portfolio/blob/main/README.md
+![Profile Picture](link_to_profile_picture.jpg)
 
 Welcome to my data analyst portfolio! I'm excited to showcase my skills and projects in the field of data analysis. As a passionate data enthusiast, I've had the opportunity to work on a variety of projects that involve extracting insights from data, making data-driven decisions, and creating meaningful visualizations.
 
 ## About Me
 
-I'm a [Your Location]-based data analyst with a strong background in [Your Relevant Background, e.g., Statistics, Computer Science, etc.]. My journey in data analysis began [mention your journey's starting point, e.g., during my university studies] and has since led me to work on projects that span different industries, such as [mention 1-2 industries or domains you've worked in].
+I'm a Vienna-based data analyst with a background in [Your Relevant Background, e.g., Statistics, Computer Science, etc.]. My journey in data analysis began [mention your journey's starting point, e.g., during my university studies] and has since led me to work on projects that span different industries, such as [mention 1-2 industries or domains you've worked in].
 
 ## Portfolio Highlights
 
