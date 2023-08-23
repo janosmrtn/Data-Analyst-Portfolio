@@ -17,12 +17,12 @@ Here are a few highlights from my portfolio:
 - **Description:** This project was the final assignment for a data scinece online course. It focuses on a general business overview with actionable recommendations.
 - **Approach:** Exploratory analyisis was made with SQL, in combination of data vizualization and forecasting was made with the help of Python.
 
-### Newsletter A/B Testing
+### Newsletter A/B Testing (Statistical Testing)
 
 - **Description:** Briefly explain the nature of the project and its relevance.
 - **Approach:** Describe the data analysis approach you took (e.g., exploratory data analysis, hypothesis testing, predictive modeling).
 
-### Social Media Tracking - Looker Studio(Google Data Studio) Dashboard
+### Social Media Tracking - Looker Studio (Google Data Studio) Dashboard
 
 - **Description:** Briefly explain the nature of the project and its relevance.
 - **Approach:** Describe the data analysis approach you took (e.g., exploratory data analysis, hypothesis testing, predictive modeling).
