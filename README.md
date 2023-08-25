@@ -40,7 +40,7 @@ Here are a few highlights from my portfolio:
 
 ## Contact Me
 
-I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out to me via [LinkedIn:](https://www.linkedin.com/in/janosmarton/)
+I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out to me via [LinkedIn.](https://www.linkedin.com/in/janosmarton/)
 
 ## Let's Connect!
 
