@@ -22,12 +22,11 @@ Here are a few highlights from my portfolio:
 - **Description:** In this project I run statistical tests to exemine the effect of the color of the CTA button .
 - **Approach:** Hypothesis testing was made with Python and the conclusions were presented in a short executive summary.
 
-### Social Media Tracking - (Looker Studio Dashboard)
+### [Social Media Tracking](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/f382b44403cf939bb12ef07521b1f32d9e5ac902/Newsletter%20AB%20Testing)
 
 - **Description:** The main goal of the project was to create a tool for continous Instagram performance tracking to help strategy and tactic planning.
-- **Approach:** After data collection and structurization dashboards were created in Google Looker Studio where data updates daily. 
-- **Link to Folder** [Social Media Tracking Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/f382b44403cf939bb12ef07521b1f32d9e5ac902/Newsletter%20AB%20Testing)
-
+- **Approach:** After data collection and structurization dashboards were created in Google Looker Studio where data updates daily.
+- 
 ## Skills
 
 - Data Cleaning and Preprocessing
