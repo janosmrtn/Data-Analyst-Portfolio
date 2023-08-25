@@ -16,7 +16,7 @@ Here are a few highlights from my portfolio:
 
 - **Description:** This project was the final assignment for a data scinece online course. It focuses on a general business overview with actionable recommendations.
 - **Approach:** Exploratory analyisis was made with SQL, in combination of data vizualization and forecasting was made with the help of Python.
-- **Link to Folder:** [Newsletter A/B Testing Folder](./Business Analyisis - SQL, Python)
+- **Link to Folder:** [Newsletter A/B Testing Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/fdedd4cb0038362da73101f80e41b21d6b796c87/Business%20Analyisis%20-%20SQL%2C%20Python)
 
 ### Newsletter A/B Testing
 
