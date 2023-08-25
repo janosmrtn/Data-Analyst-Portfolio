@@ -26,7 +26,7 @@ Here are a few highlights from my portfolio:
 
 - **Description:** The main goal of the project was to create a tool for continous Instagram performance tracking to help strategy and tactic planning.
 - **Approach:** After data collection and structurization dashboards were created in Google Looker Studio where data updates daily.
-- 
+  
 ## Skills
 
 - Data Cleaning and Preprocessing
@@ -37,7 +37,8 @@ Here are a few highlights from my portfolio:
 
 ## Contact Me
 
-I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out to me via [LinkedIn.](https://www.linkedin.com/in/janosmarton/)
+I'm always open to collaborations, discussions, and new opportunities. 
+Feel free to reach out to me via [LinkedIn.](https://www.linkedin.com/in/janosmarton/)
 
 ## Let's Connect!
 
