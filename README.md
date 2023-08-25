@@ -16,13 +16,11 @@ Here are a few highlights from my portfolio:
 
 - **Description:** This project was the final assignment for a data scinece online course. It focuses on a general business overview with actionable recommendations.
 - **Approach:** Exploratory analyisis was made with SQL, in combination of data vizualization and forecasting was made with the help of Python. A descreptive exectuive summary summs up the findings.
-- **Link to Folder:** [Business Analysis Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/fdedd4cb0038362da73101f80e41b21d6b796c87/Business%20Analyisis%20-%20SQL%2C%20Python)
 
-### Newsletter A/B Testing
+### [Newsletter A/B Testing](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/f382b44403cf939bb12ef07521b1f32d9e5ac902/Newsletter%20AB%20Testing)
 
 - **Description:** In this project I run statistical tests to exemine the effect of the color of the CTA button .
 - **Approach:** Hypothesis testing was made with Python and the conclusions were presented in a short executive summary.
-- **Link to Folder** [Newsletter A/B Testing Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/f382b44403cf939bb12ef07521b1f32d9e5ac902/Newsletter%20AB%20Testing)
 
 ### Social Media Tracking - (Looker Studio Dashboard)
 
