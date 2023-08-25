@@ -12,21 +12,23 @@ I'm a Vienna-based data analyst with an educational background in economics, mar
 
 Here are a few highlights from my portfolio:
 
-### Business Analysis (SQL, Python)
+### Business Analysis
 
 - **Description:** This project was the final assignment for a data scinece online course. It focuses on a general business overview with actionable recommendations.
 - **Approach:** Exploratory analyisis was made with SQL, in combination of data vizualization and forecasting was made with the help of Python.
-- **Link to Folder:** [Newsletter A/B Testing Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/fdedd4cb0038362da73101f80e41b21d6b796c87/Business%20Analyisis%20-%20SQL%2C%20Python)
+- **Link to Folder:** [Business Analysis Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/fdedd4cb0038362da73101f80e41b21d6b796c87/Business%20Analyisis%20-%20SQL%2C%20Python)
 
 ### Newsletter A/B Testing
 
 - **Description:** Briefly explain the nature of the project and its relevance.
 - **Approach:** Describe the data analysis approach you took (e.g., exploratory data analysis, hypothesis testing, predictive modeling).
+- **Link to Folder** [Newsletter A/B Testing Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/f382b44403cf939bb12ef07521b1f32d9e5ac902/Newsletter%20AB%20Testing)
 
 ### Social Media Tracking - (Looker Studio Dashboard)
 
 - **Description:** Briefly explain the nature of the project and its relevance.
 - **Approach:** Describe the data analysis approach you took (e.g., exploratory data analysis, hypothesis testing, predictive modeling).
+- **Link to Folder** [Social Media Tracking Folder](https://github.com/janosmrtn/Data-Analyst-Portfolio/tree/f382b44403cf939bb12ef07521b1f32d9e5ac902/Newsletter%20AB%20Testing)
 
 ## Skills
 
